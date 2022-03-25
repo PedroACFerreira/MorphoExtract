@@ -5,9 +5,9 @@ This script was tested for Bitplane Imaris versions above 7.4. .ims files genera
 IMPORTANT: If you are running this script on multiple files with more than one color channel, make sure all the channels are in the same order for all images!
 
 Available morphological parameters to select from:
-#		Fractal Dimension - Measure of complexity derived from box-counting methodology. Uses BoneJ algorithm - http://bonej.org/fractal
-#		Convex Hull - smallest bounding polygon - ConvexHull3D plugin - https://imagej.nih.gov/ij/plugins/3d-convex-hull/index.html
-#		Solidity - Area or Volume /Convex Hull - ConvexHull3D plugin - https://imagej.nih.gov/ij/plugins/3d-convex-hull/index.html
+		Fractal Dimension - Measure of complexity derived from box-counting methodology. Uses BoneJ algorithm - http://bonej.org/fractal
+		Convex Hull - smallest bounding polygon - ConvexHull3D plugin - https://imagej.nih.gov/ij/plugins/3d-convex-hull/index.html
+		Solidity - Area or Volume /Convex Hull - ConvexHull3D plugin - https://imagej.nih.gov/ij/plugins/3d-convex-hull/index.html
 
 Created by Pedro Ferreira @ https://github.com/PedroACFerreira
 
